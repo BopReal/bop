@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "sans-serif";
   margin:0px;
 }
 
@@ -97,7 +97,7 @@ padding-bottom: 50px;
   text-align: center;
 }
 
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
+
 input {
   
   width:400px;
@@ -109,8 +109,6 @@ input {
 }
 
 
-
-/* Tambahkan CSS untuk contact-submit */
 .contact-submit{
   background-color:#c7ca05;
   color:#889eab;
